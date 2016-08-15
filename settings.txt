@@ -1,0 +1,4 @@
+degital_clock_click = 0
+category_id = 1
+background_image_id = 16
+page_id = 0
